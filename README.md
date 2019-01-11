@@ -1,4 +1,4 @@
-# Shell Script to pull AWS EC2 instances
+## Shell Script to pull AWS EC2 instances accross all regions
 # How to use the Script
 
 - Download or Clone the repo to get the script
