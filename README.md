@@ -7,4 +7,4 @@
 - Make sure you have already installed AWS CLI 
 
 ## Disclaimer 
-Script is only tested with on OSXshell
+Script is only tested on OS X shell
